@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div {
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border: solid 3px blue;
+    border-radius: 10px;
+}
